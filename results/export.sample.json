@@ -1,0 +1,66 @@
+{
+  "projects": [
+    {
+      "name": "Backend",
+      "key": "BE",
+      "description": "justInCase backend programs",
+      "type": "software",
+      "template": null,
+      "issues": [
+        {
+          "priority": "Major",
+          "repository": {
+            "links": {
+              "self": {
+                "href": "https://api.bitbucket.org/2.0/repositories/justincase_jp/rules"
+              },
+              "html": {
+                "href": "https://bitbucket.org/justincase_jp/rules"
+              },
+              "avatar": {
+                "href": "https://bytebucket.org/ravatar/%7Bc3aac396-d4dd-4504-a3a0-8ded128e5245%7D?ts=markdown"
+              }
+            },
+            "type": "repository",
+            "name": "Rules",
+            "full_name": "justincase_jp/rules",
+            "uuid": "{c3aac396-d4dd-4504-a3a0-8ded128e5245}"
+          },
+          "reporter": "hiroga",
+          "component": null,
+          "assignee": "hiroga",
+          "state": "open",
+          "version": null,
+          "edited_on": null,
+          "created_on": "2018-10-01T03:39:32.283857+00:00",
+          "milestone": {
+            "name": "incident_20180926",
+            "links": {
+              "self": {
+                "href": "https://api.bitbucket.org/2.0/repositories/justincase_jp/rules/milestones/351871"
+              }
+            }
+          },
+          "updated_on": "2018-10-13T04:44:14.931891+00:00",
+          "type": "issue",
+          "comments": [
+            {
+              "body": "Notionでドラフト起票ずみ。問題ないのか？\nもう一度読み返して、自分で不安な箇所があれば適当な人に質問。なければConfluenceに移す。",
+              "author": "hiroga",
+              "created": "2018-10-13T04:44:14.955488+00:00"
+            }
+          ],
+          "externalId": "rules-1",
+          "labels": [
+            "rules",
+            "task"
+          ],
+          "issuetype": "Task",
+          "summary": "連絡体制・運用体制の強化",
+          "status": "Open",
+          "description": "Original:\nhttps://api.bitbucket.org/2.0/repositories/justincase_jp/rules/issues/1\n\nインシデント発生から意思決定者になる早でつなぐ\r\nだれが何をできるかを明らかにする"
+        }
+      ]
+    }
+  ]
+}

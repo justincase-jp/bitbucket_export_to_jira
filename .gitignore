@@ -1,0 +1,7 @@
+node_modules
+.idea
+_repos
+/results/*.json
+!/results/*.sample.json
+api_credential.js
+user_mapping.json

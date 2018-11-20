@@ -1,0 +1,8 @@
+{
+  "bitbucketIdToName": {
+    "Developer <developer@example.com>": "BitBucket Developer"
+  },
+  "nameToJiraId": {
+    "BitBucket Developer": "jira.developer"
+  }
+}

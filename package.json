@@ -1,0 +1,16 @@
+{
+  "name": "bitbucket-tools",
+  "version": "1.0.0",
+  "description": "Simple node application to analyze justInCase repository activities and manipulate repositories.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true,
+  "author": "justInCase Inc.",
+  "license": "Proprietary",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "request": "^2.88.0"
+  }
+}
